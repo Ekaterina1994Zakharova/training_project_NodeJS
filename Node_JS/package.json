@@ -1,0 +1,11 @@
+{
+  "name": "node_js",
+  "version": "0.0.1",
+  "description": "training project",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Ekaterina",
+  "license": "ISC"
+}
