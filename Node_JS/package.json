@@ -5,7 +5,8 @@
   "main": "1-3_lesson.js",
   "scripts": {
     "start1": "node 1-3_lesson/1-3_lesson.js",
-    "start2": "node 4_lesson/4_lesson.js"
+    "start2": "node 4_lesson/4_lesson.js",
+    "start3": "node 5_lesson/5_lesson.js"
   },
   "author": "Ekaterina",
   "license": "ISC",
