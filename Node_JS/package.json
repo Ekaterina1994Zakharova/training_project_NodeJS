@@ -2,9 +2,10 @@
   "name": "node_js",
   "version": "0.0.1",
   "description": "training project",
-  "main": "index.js",
+  "main": "1-3_lesson.js",
   "scripts": {
-    "start": "node index.js"
+    "start1": "node 1-3_lesson/1-3_lesson.js",
+    "start2": "node 4_lesson/4_lesson.js"
   },
   "author": "Ekaterina",
   "license": "ISC",
